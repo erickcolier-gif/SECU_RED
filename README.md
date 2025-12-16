@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-  # Mockup de Flujo de Ahorro
+ # Mockup de Flujo de Ahorro
 
   This is a code bundle for Mockup de Flujo de Ahorro.
 
@@ -10,7 +8,6 @@
 
   Run `npm run dev` to start the development server.
   
-=======
 # SECU_RED
 Software de Innovación Energética 
 
