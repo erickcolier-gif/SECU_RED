@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Mockup de Flujo de Ahorro
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# SECU_RED
+Software de Innovación Energética 
+>>>>>>> e6b040c97d1cc3b5d8653845ffc6e229736ac528
